@@ -1,11 +1,15 @@
 # emoticon-store
 
-## command prompt
+#### command prompt
 cd backend
+
 npm install
+
 node index.js
 
-## powershell
+#### powershell
 cd frontend
+
 npm install
+
 npm run serve
