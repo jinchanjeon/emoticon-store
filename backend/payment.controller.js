@@ -1,5 +1,5 @@
 const Payment = require('./payment.model.js');
-const secretKey = "Basic dGVzdF9za19HS05iZE92azVya2FrT3c3UERFM24wN3hsem1qOg=="; // 시크릿키 base64로 인코딩한 값
+const secretKey = ""; // 시크릿키 base64로 인코딩한 값
 const http = require("https");
 // 새로운 결제 내역 db에 저장
 // 
